@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-plugintext2",
+  "version": "1.0.4",
+  "description": "vuecli demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "yfyufeng",
+  "license": "ISC"
+}
